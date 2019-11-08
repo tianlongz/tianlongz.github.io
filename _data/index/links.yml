@@ -1,18 +1,18 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+- last_name: Zhang
+  first_name: Tianlong
+  desc: Website Owner
+  website: https://tianlongz.github.io/
+  email: tianlong.zhang@utah.edu
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: Sahraei-Ardakani
+  first_name: Mostafa
+  desc: My master degree advisor (Assistant Professor)
+  website: https://ardakani.ece.utah.edu/
+  email: mostafa.ardakani@utah.edu
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+# - last_name: LN
+#   first_name: FN
+#   desc: COO
+#   website: https://github.com
+#   email: coo@google.com
