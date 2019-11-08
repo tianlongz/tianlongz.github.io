@@ -15,8 +15,15 @@
   img: /static/assets/img/landing/python.png
   desc: This project is other's project. I use another request to get repo's information.
 
-- name: Google
+# - name: Climbers
+#   # i18n: cpython
+#   gh_user: tdmcdonald
+#   repo: dataviscourse-pr-climbersurveyvis
+#   img: /static/assets/img/landing/python.png
+#   desc: This project is other's project. I use another request to get repo's information.
+
+- name: Climbers
   # i18n: google
-  url: https://google.com
+  url: https://tdmcdonald.github.io/dataviscourse-pr-climbersurveyvis/
   img: /static/assets/img/landing/google.png
   desc: This is another project.
