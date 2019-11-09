@@ -5,14 +5,13 @@
   # i18n: jalpc
   gh_user: tianlongz
   repo: emconnectome
-  img: /static/assets/img/landing/jekyll.png
+  img: /static/assets/img/landing/emimage.png
   desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
 - name: Political Words Visualization
   # i18n: cpython
-  gh_user: tianlongz
-  repo: political_words_vis
-  img: /static/assets/img/landing/python.png
+  url: https://tianlongz.github.io/political_words_vis/
+  img: /static/assets/img/landing/politic-vis.jif
   desc: This project is a visualization project of the political polarity of words used in US governors' state of the state addresses. I use d3 to make the visualization, this project is done solely by myself without any template.
 
 # - name: Climbers
@@ -25,5 +24,5 @@
 - name: Climbers
   # i18n: google
   url: https://tdmcdonald.github.io/dataviscourse-pr-climbersurveyvis/
-  img: /static/assets/img/landing/google.png
+  img: /static/assets/img/landing/climb-vis.jpg
   desc: This is another visualization project of a survery for Utah Climbers. I did the whole layout of the webpage with Bootstrap 4.3.1 and the svg for the scatter plot.
