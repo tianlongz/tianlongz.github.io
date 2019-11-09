@@ -24,10 +24,8 @@ author:  # change following line to your infomation.
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: fa-python
-    - name: fa-linux
     - name: fa-js
   skill_icon2:
-    - name: icon-git
     - name: icon-d3
     - name: icon-bootstrap
   desc: Electrical and Computer Engineering M.S. student at University of Utah.  # Describe yourself.
