@@ -11,7 +11,7 @@
 - name: Political Words Visualization
   # i18n: cpython
   url: https://tianlongz.github.io/political_words_vis/
-  img: /static/assets/img/landing/politic-vis.jif
+  img: /static/assets/img/landing/politic-vis.jpg
   desc: This project is a visualization project of the political polarity of words used in US governors' state of the state addresses. I use d3 to make the visualization, this project is done solely by myself without any template.
 
 # - name: Climbers
