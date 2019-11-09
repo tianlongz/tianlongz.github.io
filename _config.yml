@@ -23,8 +23,8 @@ author:  # change following line to your infomation.
   cv: https://drive.google.com/file/d/1Paby0V8E1M4Fid81JiMHPZ5xlrEQ3tLp/view?usp=sharing  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fa-python
-    - name: fa-js
+    - name: icon-python
+    - name: icon-javascript-alt
   skill_icon2:
     - name: icon-d3
     - name: icon-bootstrap
