@@ -21,8 +21,8 @@
 #   img: /static/assets/img/landing/python.png
 #   desc: This project is other's project. I use another request to get repo's information.
 
-- name: Climbers
+- name: Wasatch Climbers Survey Visualization
   # i18n: google
-  url: https://tdmcdonald.github.io/dataviscourse-pr-climbersurveyvis/
+  url: https://tianlongz.github.io/dataviscourse-pr-climbersurveyvis/
   img: /static/assets/img/landing/climb-vis.jpg
   desc: This is another visualization project of a survery for Utah Climbers. I did the whole layout of the webpage with Bootstrap 4.3.1 and the svg for the scatter plot.
