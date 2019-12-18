@@ -1,18 +1,6 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Image Segementation for EM images of Connectome
-  # i18n: jalpc
-  gh_user: tianlongz
-  repo: emconnectome
-  img: /static/assets/img/landing/emimage.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
-
-- name: Political Words Visualization
-  # i18n: cpython
-  url: https://tianlongz.github.io/political_words_vis/
-  img: /static/assets/img/landing/politic-vis.jpg
-  desc: This project is a visualization project of the political polarity of words used in US governors' state of the state addresses. I use d3 to make the visualization, this project is done solely by myself without any template.
 
 # - name: Climbers
 #   # i18n: cpython
@@ -26,3 +14,16 @@
   url: https://tianlongz.github.io/dataviscourse-pr-climbersurveyvis/
   img: /static/assets/img/landing/climb-vis.jpg
   desc: This is another visualization project of a survery for Utah Climbers. I did the whole layout of the webpage with Bootstrap 4.3.1 and the svg for the scatter plot.
+
+- name: Political Words Visualization
+  # i18n: cpython
+  url: https://tianlongz.github.io/political_words_vis/
+  img: /static/assets/img/landing/politic-vis.jpg
+  desc: This project is a visualization project of the political polarity of words used in US governors' state of the state addresses. I use d3 to make the visualization, this project is done solely by myself without any template.
+
+- name: Image Segementation for EM images of Connectome
+  # i18n: jalpc
+  gh_user: tianlongz
+  repo: emconnectome
+  img: /static/assets/img/landing/emimage.png
+  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
