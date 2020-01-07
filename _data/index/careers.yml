@@ -1,19 +1,19 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-      detail: University of Utah
-      i18n: company_d
-    desc:
-      detail: I worked at the Department of Electrical and Computer Engineering of University of Utah for two courses. ECE 5530/6530 Digital Signal Processing and ECE 3700 Digital System Desgin.
-      i18n: company_d_desc
-    date:
-      detail: Jan. 2020
-      i18n: company_d_date
-    job:
-      detail: Teaching Assistant
-      i18n: company_d_job
-    icon: fa-plus-square
-    present: true
+    detail: University of Utah
+    i18n: company_d
+  desc:
+    detail: I worked at the Department of Electrical and Computer Engineering of University of Utah for two courses. ECE 5530/6530 Digital Signal Processing and ECE 3700 Digital System Desgin.
+    i18n: company_d_desc
+  date:
+    detail: Jan. 2020
+    i18n: company_d_date
+  job:
+    detail: Teaching Assistant
+    i18n: company_d_job
+  icon: fa-plus-square
+  present: true
 
 - name:
     detail: University of Utah
