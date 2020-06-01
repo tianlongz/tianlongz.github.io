@@ -1,10 +1,25 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Galileo Financial Technologies
+    i18n: company_e
+  desc:
+    detail: I am working as a software engineer for the API team in Galileo, a fintech company.
+    i18n: company_e_desc
+  date:
+    detail: May. 2020
+    i18n: company_e_date
+  job:
+    detail: Software Engineer
+    i18n: company_e_job
+  icon: fa-plus-square
+  present: true
+
+- name:
     detail: University of Utah
     i18n: company_d
   desc:
-    detail: I worked at the Department of Electrical and Computer Engineering of University of Utah for two courses. ECE 5530/6530 Digital Signal Processing and ECE 3700 Digital System Desgin.
+    detail: I worked at the Department of Electrical and Computer Engineering of University of Utah as a TA for two courses. ECE 5530/6530 Digital Signal Processing and ECE 3700 Digital System Desgin. Grading homeworks and exams, as well as holdiong office hours.
     i18n: company_d_desc
   date:
     detail: Jan. 2020
@@ -19,7 +34,7 @@
     detail: University of Utah
     i18n: company_c
   desc:
-    detail: I worked at the Department of Electrical and Computer Engineering of University of Utah
+    detail: I worked at the Department of Electrical and Computer Engineering of University of Utah with Professor Mostafa Ardakani. My research area is using machine learning method and feeding in the prediction data to warm start the power system optimization process.
     i18n: company_c_desc
   date:
     detail: Aug. 2019
@@ -34,7 +49,7 @@
     detail: University of Utah
     i18n: company_b
   desc:
-    detail: I worked at the Scientific Computing and Imaging Institute of University of Utah
+    detail: I worked at the Scientific Computing and Imaging Institute of University of Utah with Professor Tolga Tasdizen. My research area is medical image segmentation with deep learning (u-net with tensorflow).
     i18n: company_b_desc
   date:
     detail: Aug. 2018

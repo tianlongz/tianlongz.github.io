@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-d3
     - name: icon-bootstrap
-  desc: Electrical and Computer Engineering M.S. student at University of Utah.  # Describe yourself.
+  desc: Software Engineer in Fintech company, I like fixing bugs :)  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
